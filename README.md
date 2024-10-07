@@ -12,6 +12,6 @@ would you like to keep looking for songs in this genre? you could make it so it 
 would you like to look at other genres?
 and so on.
 
-ask if this works
+
 find the data.
 
